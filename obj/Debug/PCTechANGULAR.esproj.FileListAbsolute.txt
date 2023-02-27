@@ -1,0 +1,2 @@
+C:\Users\muratk\Desktop\mkcalisma\asp.net\PCTech\PCTechANGULAR\obj\Debug\PCTechANGULAR.esproj.SuggestedBindingRedirects.cache
+C:\Users\muratk\Desktop\mkcalisma\asp.net\PCTech\PCTechANGULAR\obj\Debug\PCTechANGULAR.esproj.CoreCompileInputs.cache
