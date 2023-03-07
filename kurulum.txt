@@ -4,5 +4,5 @@ git status
 
 ----
 git add .
-git commit -m "deneme"
+git commit -m "07032023-1138"
 git push
