@@ -1,6 +1,8 @@
 git add .
 git push
 git status
+------
+git pull
 
 ----
 git add .
