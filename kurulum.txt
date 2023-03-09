@@ -3,6 +3,7 @@ git push
 git status
 ------
 git pull
+git pull --rebase 
 
 ----
 git add .
